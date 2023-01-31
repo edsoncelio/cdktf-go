@@ -16,7 +16,7 @@ $ cdktf deploy
 
 To generate `.json` files (that can be executed by terraform commands):
 ```shell
-$ ckdtf sync
+$ ckdtf synth
 ```
 
 ## features to validate
