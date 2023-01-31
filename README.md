@@ -1,6 +1,8 @@
-# cdktf-golang
-A few examples using CDKTF with Golang to compare with HCL.
+# CDK for Terraform - with Go
 
+A few examples using [CDKTF](https://developer.hashicorp.com/terraform/cdktf) with Golang to compare with HCL.
+
+To install - check the [installation guide](https://developer.hashicorp.com/terraform/tutorials/cdktf/cdktf-install#install-cdktf).
 
 ## Commands
 Initializing the project:
